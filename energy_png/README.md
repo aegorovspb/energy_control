@@ -1,6 +1,8 @@
 # Presentation "Analysis of electricity flows"
 
-[Presentation_01](https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-01.png)
+<img src="https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-01.png">
+<img src="https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-02.png">
+[Presentation_01]()
 [Presentation_02](https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-02.png)
 [Presentation_03](https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-03.png)
 [Presentation_04](https://github.com/aegorovspb/energy/blob/main/energy_png/Presentation-04.png)
