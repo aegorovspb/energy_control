@@ -9,15 +9,15 @@
 - актуальные остатки;
 - актуальные продажи.
 
-[Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/blob/main/stock_%20analysis.ipynb)
+- [Проект "Анализ складских запасов"](https://github.com/aegorovspb/energy_control/blob/main/stock_%20analysis.ipynb)
 
-[Формируемый отчет](https://github.com/aegorovspb/energy_control/raw/refs/heads/main/out/illiquid_2025-06-26_15-32.xlsx)
+- [Формируемый отчет](https://github.com/aegorovspb/energy_control/raw/refs/heads/main/out/illiquid_2025-06-26_15-32.xlsx)
 
-[Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
+- [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
 
-[Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
+- [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
-[Мое резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
+- [Мое резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
 
 
 
