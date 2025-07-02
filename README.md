@@ -13,11 +13,13 @@
 
 - [Формируемый отчет](https://github.com/aegorovspb/energy_control/raw/refs/heads/main/out/illiquid_2025-06-26_15-32.xlsx)
 
+### Сертификаты и мое резюме:
+
 - [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
 
 - [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
-- [Мое резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
+- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
 
 
 
