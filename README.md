@@ -11,6 +11,8 @@
 
 [Проект "Анализ склада"](https://github.com/aegorovspb/energy/blob/main/energy_flow.ipynb)
 
+[Формируемый отчет](https://github.com/aegorovspb/energy/blob/main/energy_flow.ipynb)
+
 [Мое резюме"](https://github.com/aegorovspb/energy/tree/main/energy_png)
 
 
