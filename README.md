@@ -11,8 +11,6 @@
 
 ### Сертификаты и мое резюме:
 
-- [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
-
 - [Дипломы и сертификаты](https://github.com/aegorovspb/energy_control/tree/main/certificates)
 
 - [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
