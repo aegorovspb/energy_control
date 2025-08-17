@@ -15,7 +15,7 @@
 
 - [Рекомендательное письмо](https://github.com/aegorovspb/energy_control/blob/main/letter_of_recommendation.pdf)
 
-- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/AndrewEgorov.pdf)
+- [Резюме](https://github.com/aegorovspb/energy_control/blob/main/Andrew_Egorov.pdf)
 
 
 
